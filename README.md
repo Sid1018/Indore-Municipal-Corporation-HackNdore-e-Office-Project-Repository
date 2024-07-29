@@ -1,4 +1,4 @@
-# e-Office-Project-Repository
+# e-Office-Project-Repository- IMC(Indore Municipal Corporation)
 This repository serves as the central hub for our various projects related to e Office. Below you will find links to the individual repositories for each specific project.
 
 ## Table of Contents
