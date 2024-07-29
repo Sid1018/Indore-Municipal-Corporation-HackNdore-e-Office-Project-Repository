@@ -1,6 +1,11 @@
 # e-Office-Project-Repository- IMC(Indore Municipal Corporation) HackNdore
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-iuuco&psig=AOvVaw08BCCP5aP7xLBCJGtwhfNW&ust=1722317822985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjw74XEy4cDFQAAAAAdAAAAABAE)
+
+
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Funstop.com%2Fhackathons%2Fhackndore-indore-municipal-corporation-1069856&psig=AOvVaw2Pp-fCBmtv8ZHQYQ3I_lDg&ust=1722317753939000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCT-ODDy4cDFQAAAAAdAAAAABAE)
+
+
 This repository serves as the central hub for our various projects related to e Office. Below you will find links to the individual repositories for each specific project.
 
 ## Table of Contents
