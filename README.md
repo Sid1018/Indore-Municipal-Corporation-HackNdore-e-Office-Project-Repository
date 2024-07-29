@@ -1,6 +1,9 @@
 # e-Office-Project-Repository- IMC(Indore Municipal Corporation) HackNdore
 
-![Untitled design (2)](https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b)
+<p align="center">
+  <img width="460" height="300" ![Untitled design (2)](https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b)
+>
+</p>![Untitled design (2)](https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b)
 
 
 
