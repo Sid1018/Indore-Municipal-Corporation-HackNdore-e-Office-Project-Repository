@@ -1,13 +1,6 @@
 # e-Office-Project-Repository- IMC(Indore Municipal Corporation) HackNdore
 
-
-
-
-
-
-
-![png-transparent-sukhliya-indore-indore-municipal-corporation-depalpur-nagar-nigam-others-food-city-logo](https://github.com/user-attachments/assets/2e42ef2e-4fb2-40db-9e35-7a95f11cc3c9) ![hac](https://github.com/user-attachments/assets/0dc6cfc3-ea5c-4e18-9839-4400a93a8827)
-
+![Untitled design (2)](https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b)
 
 
 
