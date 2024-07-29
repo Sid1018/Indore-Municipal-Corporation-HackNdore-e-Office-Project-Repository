@@ -4,13 +4,11 @@
 
 
 
-![png-transparent-sukhliya-indore-indore-municipal-corporation-depalpur-nagar-nigam-others-food-city-logo-removebg-preview](https://github.com/user-attachments/assets/dcd68d5a-e762-47ae-8bc6-958120c53ab9)
 
 
+![png-transparent-sukhliya-indore-indore-municipal-corporation-depalpur-nagar-nigam-others-food-city-logo](https://github.com/user-attachments/assets/2e42ef2e-4fb2-40db-9e35-7a95f11cc3c9) ![hac](https://github.com/user-attachments/assets/0dc6cfc3-ea5c-4e18-9839-4400a93a8827)
 
 
-
-![hac](https://github.com/user-attachments/assets/662c3ffc-5510-46aa-b5d8-839c46b69db2)
 
 
 This repository serves as the central hub for our various projects related to e Office. Below you will find links to the individual repositories for each specific project.
